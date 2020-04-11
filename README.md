@@ -4,9 +4,8 @@ For this project, we are hoping to discover what factors create popular movies. 
  
 Let's explore and ask the data what information it holds. 
 
+# Group 6: YAY Team! 
 ![Image description](TeamImageFile.png)
-
-Group 6: YAY Team! 
 
 # Overview
 In this repository we will store all relevant project documents. We will use Jupyter Notebooks for processing, clean up, analyzing and visualizations. We found the 5000-movie database and according to TMDB the “movies are query-able by fields like average rating, certifications, release dates and genres.”  Other categories such as spoken language, popularity, and title will help us to identify the data and answer our questions. 
