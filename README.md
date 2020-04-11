@@ -18,7 +18,7 @@ Sources utilized for data, articles, and topic research:
 ## Workflow:
 We will divide the workflow so as to fairly distribute the work between members of Group 6. We start by assigning the main task of coding the data cleanse to one person as the group participates in research and troubleshooting. We then divide up our brainstormed questions and each member has at least one question to answer (depending on other task assignments like cleaning data and managing project documents on GitHub). By using the skills we have learned to date we will compare various characteristics that make a movie popular and hopefully create a set of conclusions and variables to predict the success of a movie.
 
-Para-project Tasks:
+Para-Project Tasks:
    - Data Wrangling : Ally 
    - GitHub : Anastasia
 
