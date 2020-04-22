@@ -42,7 +42,7 @@ Discovery Questions:
    - Export to a new ".csv" file for further team analysis (clean_movie_df_aq.csv) 
 - Project1DataAnalysis_AQ.ipynb: Ally  
    - Can we determine what was popular by length of title and voter rating?>
-- AValdes_Project1.ipynb:   
+- AValdes_Project1.ipynb: Anastasia   
    - Can we determine what was popular by geography?>
 - Cox_Project_1.ipynb: Kellie  
    - Can we determine what was popular by decade? Was there any genre resurgence?>
