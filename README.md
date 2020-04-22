@@ -35,7 +35,6 @@ Discovery Questions:
  
 ## Data Files: 
 - tmdb_5000_movies.csv (original downloaded data from Kaggle)
-- clean_movie_df.csv (version 1 of our staged clean dataset)
 
 ## Jupyter Notebooks:
 - Project1_DataCleaning.4.19.2020.aq : for processing and cleaning up ".csv" raw data : Ally with team participation 
