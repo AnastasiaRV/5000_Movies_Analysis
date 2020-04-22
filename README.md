@@ -40,15 +40,15 @@ Discovery Questions:
 - Project1_DataCleaning.4.19.2020.aq : for processing and cleaning up ".csv" raw data : Ally with team participation 
    - Export to a new ".csv" file for further team analysis (clean_movie_df_aq.csv) 
 - Project1DataAnalysis_AQ.ipynb: Ally  
-   - Can we determine what was popular by length of title and voter rating?>
+   - Can we determine what was popular by length of title and voter rating?
 - AValdes_Project1.ipynb: Anastasia   
-   - Can we determine what was popular by geography?>
+   - Can we determine what was popular by geography?
 - Cox_Project_1.ipynb: Kellie  
-   - Can we determine what was popular by decade? Was there any genre resurgence?>
+   - Can we determine what was popular by decade? Was there any genre resurgence?
 - GHuefner_Work.ipynb: Grace  
-   - What's the relationship between runtime and pepularity?>
+   - What's the relationship between runtime and pepularity?
 - MMohamad_Project1.ipynb: Masita  
-   - Can we determine what was popular by production budget or genre?>
+   - Can we determine what was popular by production budget or genre?
 
 ## Project Team Presentation:
 - File name : "Project_1_Presentation_Movie_Success.pptx"
